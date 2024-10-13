@@ -13,5 +13,5 @@
 ⚡ Check my ✨(https://linktr.ee/rishiraj.x_yz?subscribe)<br>
 📫 How to reach me: nagd581@gmail.com<br>
 👯 Join my opensource <br>
-💬 
+           💬 
 <!--- Adding Tech Stack open Section -->
