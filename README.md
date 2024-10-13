@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Data Engineer | Prev. PM @girlscript <br>
+✨ Pursuing BTech | VIT <br>
 ⚡ Check my ✨(https://linktr.ee/rishiraj.x_yz?subscribe)<br>
 📫 How to reach me: nagd581@gmail.com<br>
 👯 Join my opensource <br>
