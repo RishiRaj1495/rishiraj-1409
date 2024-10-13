@@ -1,16 +1,17 @@
 ## Hi there 👋
+<h1 align="center"> Hi there, I'm <a href="http://www.linkedin.com/in/14rishi-raj/">RISHI</a> </h1>
 
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="http://www.linkedin.com/in/14rishi-raj/">LinkedIn</a> - 
+  <a href="https://linktr.ee/rishiraj.x_yz?subscribe/">Website</a> -
+</p>
 
-**rishiraj-1409/rishiraj-1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on opensource project
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: nagd581@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-  
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Data Engineer | Prev. PM @girlscript <br>
+⚡ Check my ✨(https://linktr.ee/rishiraj.x_yz?subscribe)<br>
+📫 How to reach me: nagd581@gmail.com<br>
+👯 Join my opensource <br>
+💬 
+<!--- Adding Tech Stack open Section -->
